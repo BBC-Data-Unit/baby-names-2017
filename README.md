@@ -2,7 +2,7 @@
 
 ![](https://ichef.bbci.co.uk/news/624/cpsprodpb/E6FE/production/_97943195_babynames_ratio-nc.png)
 
-In September 2017 we [reported on the latest data on baby name popularity](http://www.bbc.co.uk/news/uk-england-41160596)
+In September 2017 we [reported on the latest data on baby name popularity](http://www.bbc.co.uk/news/uk-england-41160596). 
 
 ## Get the data
 
