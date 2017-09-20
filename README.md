@@ -11,3 +11,7 @@ In September 2017 we [reported on the latest data on baby name popularity](http:
 ## Visualisation and interactivity
 
 * Widget: How popular is my name?
+
+## Background
+
+* [Methodology for baby name statistics (ONS)](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/methodologies/babynamesqmi)
