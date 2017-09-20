@@ -5,6 +5,8 @@ In September 2017 we [reported on the latest data on baby name popularity](http:
 ## Get the data
 
 * ONS: [Baby names in England and Wales: 2016](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/babynamesenglandandwales/2016)
+* XLS: [Girls' names 2016](https://github.com/BBC-Data-Unit/baby-names-2017/blob/master/2016girlsnames.xls)
+* XLS: [Boys' names 2016](https://github.com/BBC-Data-Unit/baby-names-2017/blob/master/2016boysnames.xls)
 
 ## Visualisation and interactivity
 
