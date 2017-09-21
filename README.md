@@ -13,6 +13,8 @@ In September 2017 we [reported on the latest data on baby name popularity](http:
 ## Visualisation and interactivity
 
 * Widget: How popular is my name?
+* Line chart: Number of names per 1,000 babies - girls names compared to boys names
+* Table: How the top names in 2016 have changed since 1996 (rankings)
 
 ## Background
 
