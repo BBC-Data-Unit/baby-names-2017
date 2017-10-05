@@ -2,7 +2,7 @@
 
 ![](https://ichef.bbci.co.uk/news/624/cpsprodpb/E6FE/production/_97943195_babynames_ratio-nc.png)
 
-In September 2017 we [reported on the latest data on baby name popularity](http://www.bbc.co.uk/news/uk-england-41160596). 
+In September 2017 we [reported on the latest data on baby name popularity](http://www.bbc.co.uk/news/uk-england-41160596). Data journalist **Dan Wainwright** was also [interviewed for a liveblog from a maternity ward](http://www.bbc.co.uk/news/live/uk-england-suffolk-41284694?ns_mchannel=social&ns_source=twitter&ns_campaign=bbc_live&ns_linkname=59c927f6e4b012e04d70d0ff%26When%20is%20the%20busiest%20day%20for%20births%3F%26&ns_fee=0#post_59c927f6e4b012e04d70d0ff)
 
 ## Get the data
 
